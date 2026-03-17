@@ -1,0 +1,63 @@
+{
+  "nav": { "experience": "Experience", "skills": "Skills", "projects": "Projects", "contact": "Contact" },
+  "hero": {
+    "role": "Frontend Developer",
+    "firstName": "Chitipat",
+    "lastName": "Siriwiwattanakul",
+    "desc1": "Specializing in building refined digital experiences with ",
+    "desc2": ". Currently shaping internal systems at Ocare Health Hub."
+  },
+  "exp": {
+    "journey": "Professional Journey",
+    "title": "Experience",
+    "present": "Present",
+    "job1_role": "Frontend Developer (Intern)",
+    "job1_b1": "Co-designed the UX/UI in Figma for both Admin and Participant interfaces of \"Attendly,\" a training management system.",
+    "job1_b2": "Developed the frontend Participant module using React, TypeScript, and Tailwind CSS, enabling users to seamlessly check in/out, join checkpoints, complete quizzes, and submit feedback.",
+    "job1_b3": "Implemented attendance tracking features to accurately monitor participant data for each event.",
+    "job2_role": "Frontend Developer (Part-time)",
+    "job2_b1": "Developed the frontend interface for the Student Loan Fund application system, utilized by the Student Registration Office to streamline application and document management processes.",
+    "job2_b2": "Built responsive and user-friendly web pages using Vue.js, JavaScript, CSS, and Bootstrap, ensuring seamless interaction with an SQL-based backend."
+  },
+  "skills": {
+    "subtitle": "Capabilities",
+    "title": "My Tech Stack"
+  },
+  "projects": {
+    "subtitle": "Selected Work",
+    "title": "Featured Projects",
+    "desc": "Focused on building functional systems and clean user interfaces.",
+    "view_btn": "View Details",
+    "p1_short": "Training management system for Ocare Health Hub. Co-designed UX/UI and developed the participant module for seamless check-ins and feedback.",
+    "p1_long": "Attendly is a comprehensive training management system developed for Ocare Health Hub. My role focused on co-designing the overall UX/UI and taking full ownership of the participant module. This involved creating intuitive flows for user registration, seamless event check-ins (QR code integration), and automated post-event feedback collection.",
+    "p1_role": "Frontend Developer & UX/UI Co-designer",
+    "p2_short": "Frontend interface for MFU Student Loan Fund system. Optimized documentation processes to streamline registration office workflows.",
+    "p2_long": "Developed the frontend interface for the Mae Fah Luang University (MFU) Student Loan Fund system. The project aimed to digitize and optimize the complex documentation process for student loans. I utilized Vue.js and Bootstrap to create a responsive, accessible, and user-friendly dashboard.",
+    "p2_role": "Frontend Developer",
+    "p3_short": "Developed a cross-platform mobile application for a vehicle reservation system, focused on intuitive booking flows and clean UI.",
+    "p3_long": "A cross-platform mobile application built with Flutter and Dart for a vehicle rental service. The app features intuitive booking flows, date selection, vehicle browsing, and a clean, modern user interface designed to enhance the customer booking experience.",
+    "p3_role": "Mobile App Developer",
+    "p4_short": "Designed UX/UI and developed a facial recognition system via ThaiID to authenticate Wi-Fi access for MFU and MFU Hospital.",
+    "p4_long": "Designed the UX/UI and developed the frontend for a facial recognition authentication system. Integrated with the ThaiID API, this system securely verifies user identities before granting Wi-Fi access across the MFU campus and MFU Hospital, ensuring high-level security and ease of use.",
+    "p4_role": "UX/UI Designer & Frontend Developer"
+  },
+  "cta": {
+    "subtitle": "Get in touch",
+    "title1": "Let’s build something ",
+    "extra": "extraordinary",
+    "title2": " together.",
+    "talk": "LET'S TALK",
+    "copy": "COPY EMAIL",
+    "copied": "COPIED!"
+  },
+  "footer": {
+    "design": "Refined Minimalist Design",
+    "location": "Chiang Mai, TH"
+  },
+  "modal": {
+    "role": "Role:",
+    "source": "Source Code",
+    "design": "View Design",
+    "demo": "Live Demo"
+  }
+}
